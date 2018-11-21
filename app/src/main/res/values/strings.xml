@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALTAIR</string>
+    <string name="IT">Computer Science</string>
+    <string name="Political_Science">Political Science</string>
+    <string name="Physics">Physics</string>
+    <string name="Math">Mathematics</string>
+    <string name="Law">Law</string>
+    <string name="Business">Business</string>
+</resources>
